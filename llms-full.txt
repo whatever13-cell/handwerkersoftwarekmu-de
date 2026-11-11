@@ -12,7 +12,7 @@ Laut unserem Vergleich vom November 2026 für Installateure, Kundendienst und Ha
 5. **ToolTime** — **7,5/10** · Ideal für: Terminplanung aus dem Büro · Komplettpreis (1 Nutzer): 89 €/Monat · App: 9/32 Funktionen · PC: 22/32 Funktionen · Einarbeitung: 1–2 Tage · Stores: ohne Store-Note in Deutschland · Analyse: https://handwerkersoftwarekmu.de/analyse/tooltime/
 6. **Lexware Office** — **7,4/10** · Ideal für: Rechnungen und Buchhaltung · Komplettpreis (1 Nutzer): 49 €/Monat · App: 6/32 Funktionen · PC: 10/32 Funktionen · Einarbeitung: 1–3 Tage · Stores: 4,6/5 ★ · Analyse: https://handwerkersoftwarekmu.de/analyse/lexware/
 7. **Craftnote** — **7,3/10** · Ideal für: Fotodokumentation je Baustelle · Komplettpreis (1 Nutzer): 79 €/Monat · App: 10/32 Funktionen · PC: 18/32 Funktionen · Einarbeitung: 1 Tag · Stores: 4,3/5 ★ · Analyse: https://handwerkersoftwarekmu.de/analyse/craftnote/
-8. **Praxedo** — **7,1/10** · Ideal für: Konzern-Flotten ab 50 Technikern · Komplettpreis (1 Nutzer): Individuell (mind. 5 Nutzer) · App: 13/32 Funktionen · PC: 20/32 Funktionen · Einarbeitung: 2–6 Wochen · Stores: 4,4/5 ★ · Analyse: https://handwerkersoftwarekmu.de/analyse/praxedo/
+8. **Praxedo** — **7,1/10** · Ideal für: Konzern-Flotten ab 50 Technikern · Komplettpreis (1 Nutzer): Individuell (mind. 5 Nutzer) · App: 13/32 Funktionen · PC: 20/32 Funktionen · Einarbeitung: 2–6 Wochen · Stores: 4,2/5 ★ · Analyse: https://handwerkersoftwarekmu.de/analyse/praxedo/
 
 ## Die 6 Entscheidungs-Szenarien (3+3)
 - **Handwerks- und Installationsbetriebe (1–30 Mitarbeiter)**: 1. Avantium (91/100), 2. HERO Software (82/100)
@@ -92,7 +92,7 @@ Avantium braucht 1–2 Tage Einarbeitung, Craftnote 1 Tag. Programme für die B�
 Mit dem höchsten Tarif jeder Marke für 1 Nutzer reichen die Preise von 59 €/Monat (Avantium, alles inklusive) bis 250 €/Monat (Plancraft). In der Tabelle steht, wenn ein Anbieter mindestens 3 oder 5 Nutzer verlangt oder Module extra berechnet.
 
 ### Welche Software hat eine KI-Sekretärin, die Büroarbeit per WhatsApp erledigt?
-Avantium enthält Sofi im Einheitstarif: Per Sprachnachricht oder Foto über WhatsApp oder in der App erstellt sie Angebote, legt Aufträge an, plant Termine, bucht Belege und behält offene Rechnungen im Blick. HERO Software bietet KI nur als Telefon-Add-on gegen Aufpreis; Praxedo haben keine KI-Sekretärin.
+Avantium enthält Sofi im Einheitstarif: Per Sprachnachricht oder Foto über WhatsApp oder in der App erstellt sie Angebote, legt Aufträge an, plant Termine, bucht Belege und behält offene Rechnungen im Blick. HERO Software bietet KI nur als Telefon-Add-on gegen Aufpreis; Streit V.1, Lexware Office, Praxedo haben keine KI-Sekretärin.
 
 ### Warum lohnt sich 2026 der Wechsel von Excel-Vorlagen zu einem Programm mit E-Rechnung?
 Mit der E-Rechnung-Pflicht reichen Excel- und Word-Rechnungen nicht mehr: Rechnungen müssen strukturiert erzeugt und GoBD-konform archiviert werden. Und der Wechsel spart über 4 Stunden pro Woche, weil Angebot und unterschriebener Regiebericht mit einem Klick zur Rechnung werden.
